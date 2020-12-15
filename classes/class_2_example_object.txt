@@ -1,0 +1,13 @@
+Instance: Finley's Dream Team
+
+Attributes:
+favorite_recommendation = "Mac and Cheese"
+number_of_staff_working = 7
+tip_amount = 250.78
+is_front_of_house = false
+
+Methods:
+change_favorite_recommendation: favorite_recommendation = "Irish Stew"
+call_in_sick: number_of_staff_working = 6
+calculate_percent_tip_pool: tip_amount/is_front_of_house = 35.83
+serve_customers: is_front_of_house = true
