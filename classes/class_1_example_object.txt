@@ -1,0 +1,13 @@
+Instance: Finley's Rooftop Bar
+
+Attributes:
+bartender_name = "Rory"
+number_of_patrons = 20
+is_drink_on_special = false
+daily_drink_specials = ["Murphy's Stout","Terry's Lager","House Wine"]
+
+Methods:
+change_name: bartender_name = "Michael"
+play_good_music: number_of_patrons = 25
+make_special: is_drink_on_special = true
+remove_special: daily_drink_specials = ["Murphy's Stout","House Wine"]
