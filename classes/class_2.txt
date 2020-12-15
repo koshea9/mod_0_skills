@@ -1,0 +1,13 @@
+Class: Staff
+
+Attributes:
+favorite_recommendation (string)
+number_of_staff_working (integer)
+tip_amount (float)
+is_front_of_house (boolean)
+
+Methods:
+change_favorite_recommendation (modifies favorite_recommendation)
+call_in_sick (decreases number_of_staff_working by 1)
+calculate_percent_tip_pool (divides tip_amount by number_of_staff_working)
+serve_customers (modifies is_front_of_house to true)
