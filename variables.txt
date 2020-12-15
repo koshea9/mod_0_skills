@@ -1,0 +1,9 @@
+food = "mac and cheese"
+is_delicious = true
+food = "chicken nuggets"
+num2 = 10
+num7 = 5
+quotient = num2/num7
+songs = ["The Joke", "Party of One", "Turpentine"]
+songs.delete_at (0)
+food.size
