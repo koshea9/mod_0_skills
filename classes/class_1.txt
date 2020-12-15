@@ -1,0 +1,13 @@
+Class: Bar
+
+Attributes:
+bartender_name (string)
+number_of_patrons (integer)
+is_drink_on_special (boolean)
+daily_drink_specials [array]
+
+Methods:
+change_name (changes bartender_name)
+play_good_music (adds 5 to number_of_patrons)
+make_special (modify is_drink_on_special to true)
+remove_special (removes 2nd element in array)
